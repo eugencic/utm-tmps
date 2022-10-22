@@ -1,6 +1,6 @@
-package Lab2.Builders;
+package CreationalDesignPatterns.Builders;
 
-import Lab2.Sweets.Butterscotch;
+import CreationalDesignPatterns.Sweets.Butterscotch;
 
 public class ButterscotchBuilder implements SweetBuilder {
     private Butterscotch butterscotch;

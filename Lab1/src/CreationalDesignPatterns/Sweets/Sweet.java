@@ -1,7 +1,6 @@
-package Lab2.Builders;
+package CreationalDesignPatterns.Sweets;
 
-public interface SweetBuilder {
-    void reset();
+public interface Sweet {
     void setProduct(String productName);
     void setManufacturer(String manufacturer);
     void setPrice(double price);

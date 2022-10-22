@@ -1,4 +1,4 @@
-# Laboratory Work No.2
+# Laboratory Work No.1
 ## Topic: Creational Design Patterns
 ### Course: Software Design Techniques & Mechanisms Laboratory Works
 ### Author: Eugeniu Popa
@@ -110,10 +110,10 @@ And adapted for my code:
 
 ## Output Example:
 ### Sweet Shop:
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/1.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab1/src/CreationalDesignPatterns/Screenshots/1.png)
 
 ### Searching for a product:
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/2.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab1/src/CreationalDesignPatterns/Screenshots/2.png)
 
 ### Buying the product:
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/3.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/CreationalDesignPatterns/Screenshots/3.png)

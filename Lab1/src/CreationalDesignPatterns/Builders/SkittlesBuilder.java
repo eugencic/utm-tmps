@@ -1,6 +1,6 @@
-package Lab2.Builders;
+package CreationalDesignPatterns.Builders;
 
-import Lab2.Sweets.Skittles;
+import CreationalDesignPatterns.Sweets.Skittles;
 
 public class SkittlesBuilder implements SweetBuilder {
     private Skittles skittles;

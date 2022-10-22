@@ -1,4 +1,4 @@
-package Lab2.Sweets;
+package CreationalDesignPatterns.Sweets;
 
 public class Skittles implements Sweet {
     private String productName;

@@ -1,10 +1,10 @@
-package Lab2.Factory;
+package CreationalDesignPatterns.Factory;
 
-import Lab2.Builders.*;
-import Lab2.Sweets.Sweet;
-import Lab2.SweetSeller;
+import CreationalDesignPatterns.Builders.*;
+import CreationalDesignPatterns.Sweets.Sweet;
+import CreationalDesignPatterns.SweetSeller;
 
-public class NestleFactory implements Lab2.Factory.AbstractFactory {
+public class NestleFactory implements CreationalDesignPatterns.Factory.AbstractFactory {
 
     private static NestleFactory nestleFactory;
     private final SweetSeller sweetSeller = new SweetSeller();

@@ -1,6 +1,6 @@
-package Lab2.Builders;
+package CreationalDesignPatterns.Builders;
 
-import Lab2.Sweets.Jawbreakers;
+import CreationalDesignPatterns.Sweets.Jawbreakers;
 
 public class JawbreakersBuilder implements SweetBuilder {
     private Jawbreakers jawbreakers;

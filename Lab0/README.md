@@ -1,2 +1,2 @@
-# Laboratory Work No.1
+# Laboratory Work No.0
 ## Implement two of the first five SOLID principles

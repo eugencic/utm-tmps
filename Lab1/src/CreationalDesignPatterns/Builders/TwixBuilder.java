@@ -1,6 +1,6 @@
-package Lab2.Builders;
+package CreationalDesignPatterns.Builders;
 
-import Lab2.Sweets.Twix;
+import CreationalDesignPatterns.Sweets.Twix;
 
 public class TwixBuilder implements SweetBuilder {
     private Twix twix;

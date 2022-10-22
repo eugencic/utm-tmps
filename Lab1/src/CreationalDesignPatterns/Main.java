@@ -1,6 +1,6 @@
-package Lab2;
+package CreationalDesignPatterns;
 
-import Lab2.Factory.*;
+import CreationalDesignPatterns.Factory.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;

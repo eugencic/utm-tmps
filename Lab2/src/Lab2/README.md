@@ -109,6 +109,10 @@ And adapted for my code:
 
 ## Output Example:
 ### Sweet Shop:
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/1.png)
+
 ### Searching for a product:
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/2.png)
+
 ### Buying the product:
-![alt text]()
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/Lab2/Screenshots/3.png)

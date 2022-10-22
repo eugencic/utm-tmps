@@ -1,4 +1,5 @@
-# Topic: Creational Design Patterns
+#Laboratory Work No.2
+## Topic: Creational Design Patterns
 ### Course: Software Design Techniques & Mechanisms Laboratory Works
 ### Author: Eugeniu Popa
 

@@ -116,4 +116,4 @@ And adapted for my code:
 ![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab1/src/CreationalDesignPatterns/Screenshots/2.png)
 
 ### Buying the product:
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/CreationalDesignPatterns/Screenshots/3.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab1/src/CreationalDesignPatterns/Screenshots/3.png)

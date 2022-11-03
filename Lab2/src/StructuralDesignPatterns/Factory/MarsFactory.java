@@ -1,15 +1,17 @@
-package CreationalDesignPatterns.Factory;
+package StructuralDesignPatterns.Factory;
 
-import CreationalDesignPatterns.Builders.*;
-import CreationalDesignPatterns.Sweets.Sweet;
-import CreationalDesignPatterns.SweetSeller;
+import StructuralDesignPatterns.Builders.ButterscotchBuilder;
+import StructuralDesignPatterns.Builders.JawbreakersBuilder;
+import StructuralDesignPatterns.Builders.SkittlesBuilder;
+import StructuralDesignPatterns.Builders.TwixBuilder;
+import StructuralDesignPatterns.Items.Sweets.Sweet;
 
 public class MarsFactory implements AbstractFactory {
     private MarsFactory() {
     }
-    private static MarsFactory marsFactory;
+    private static volatile MarsFactory marsFactory;
     private final SweetSeller sweetSeller = new SweetSeller();
-    public static MarsFactory getMarsInstance() {
+    public static MarsFactory getMarsFactory() {
         if (marsFactory == null)
             marsFactory = new MarsFactory();
         return marsFactory;

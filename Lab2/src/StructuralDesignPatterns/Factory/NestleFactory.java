@@ -1,15 +1,17 @@
-package CreationalDesignPatterns.Factory;
+package StructuralDesignPatterns.Factory;
 
-import CreationalDesignPatterns.Builders.*;
-import CreationalDesignPatterns.Sweets.Sweet;
-import CreationalDesignPatterns.SweetSeller;
+import StructuralDesignPatterns.Builders.ButterscotchBuilder;
+import StructuralDesignPatterns.Builders.JawbreakersBuilder;
+import StructuralDesignPatterns.Builders.SkittlesBuilder;
+import StructuralDesignPatterns.Builders.TwixBuilder;
+import StructuralDesignPatterns.Items.Sweets.Sweet;
 
-public class NestleFactory implements CreationalDesignPatterns.Factory.AbstractFactory {
+public class NestleFactory implements AbstractFactory {
     private NestleFactory() {
     }
-    private static NestleFactory nestleFactory;
+    private static volatile NestleFactory nestleFactory;
     private final SweetSeller sweetSeller = new SweetSeller();
-    public static NestleFactory getNestleInstance() {
+    public static NestleFactory getNestleFactory() {
         if (nestleFactory == null)
             nestleFactory = new NestleFactory();
         return nestleFactory;

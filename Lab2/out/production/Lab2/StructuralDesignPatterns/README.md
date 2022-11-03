@@ -95,7 +95,8 @@ Implementing this design patterns into my code empowered me to extend its functi
 
 Now with the help of decorator and facade, the client have a special section, with different flavours from different manufacturers.
 
-![alt text](https://github.com/marina01p/SDTM-Labs/blob/main/Lab%232/screenshots/screen-01.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/StructuralDesignPatterns/Screenshots/1.png)
 
 Adapter on the other hand, allows the client to choose a package after their shopping is done.
-![alt text](https://github.com/marina01p/SDTM-Labs/blob/main/Lab%232/screenshots/screen-02.png)
+
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab2/src/StructuralDesignPatterns/Screenshots/2.png)

@@ -16,17 +16,8 @@ public class PackageAdapter implements Package {
     public void setConstitution(boolean isBio) {
     }
 
-    public void setProduct(String productName) {
-    }
-
-    public void setManufacturer(String manufacturer) {
-    }
-
     @Override
     public void setPrice(double price) {
-    }
-
-    public void setFlavour(String flavour) {
     }
 
     @Override

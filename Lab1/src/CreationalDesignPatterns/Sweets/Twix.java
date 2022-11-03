@@ -3,7 +3,6 @@ package CreationalDesignPatterns.Sweets;
 public class Twix implements Sweet {
     private String productName;
     private String manufacturer;
-    private boolean sugarFree;
     private double price;
 
     public void setProduct(String productName) { this.productName = productName; }
@@ -14,5 +13,4 @@ public class Twix implements Sweet {
         this.price = price;
     }
     public String toString() { return "\nProduct: " + productName + "\nManufacturer: " + manufacturer + "\nPrice : " + price + "$"; }
-
 }

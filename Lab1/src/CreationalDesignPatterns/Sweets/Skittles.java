@@ -3,7 +3,6 @@ package CreationalDesignPatterns.Sweets;
 public class Skittles implements Sweet {
     private String productName;
     private String manufacturer;
-    private boolean sugarFree;
     private double price;
 
     public void setProduct(String productName) {
@@ -15,5 +14,5 @@ public class Skittles implements Sweet {
     public void setPrice(double price) {
         this.price = price;
     }
-    public String toString() { return "\nProduct: " + productName + "\nManufacturer: " + sugarFree + "\nPrice : " + price + "$"; }
+    public String toString() { return "\nProduct: " + productName + "\nManufacturer: " + manufacturer + "\nPrice : " + price + "$"; }
 }

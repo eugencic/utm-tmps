@@ -30,7 +30,10 @@ public class Main {
 
         switch (firstLine.toLowerCase()) {
             case "r" -> {
-                System.out.println("List of our factories: \n" + "1. Mars \n" + "2. Nestle");
+                System.out.println("""
+                        List of our factories:\s
+                        1. Mars\s
+                        2. Nestle""");
                 System.out.println("Enter the desired factory: ");
                 BufferedReader productLine = new BufferedReader(new InputStreamReader(System.in));
                 String factoryName = productLine.readLine();

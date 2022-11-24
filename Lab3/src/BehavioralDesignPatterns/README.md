@@ -114,16 +114,16 @@ I have created two additional cases in my switch statement ('f' for search bar a
 
 If the client input of a product or factory is true, it displays its availability:
 
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab3/src/BehavioralDesignPatterns/Screenshots/1.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/test/Lab3/src/BehavioralDesignPatterns/Screenshots/1.png)
 
 On the other hand, if the product or factory do not exist, it displays its unavailability:
 
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab3/src/BehavioralDesignPatterns/Screenshots/2.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/test/Lab3/src/BehavioralDesignPatterns/Screenshots/2.png)
 
 If the client rates the shop between 3 and 5, we get a response from the director:
 
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab3/src/BehavioralDesignPatterns/Screenshots/3.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/test/Lab3/src/BehavioralDesignPatterns/Screenshots/3.png)
 
 If the client rates the shop between 1 and 2, we get a response from the VP:
 
-![alt text](https://github.com/eugencic/utm-tmps-labs/blob/main/Lab3/src/BehavioralDesignPatterns/Screenshots/4.png)
+![alt text](https://github.com/eugencic/utm-tmps-labs/blob/test/Lab3/src/BehavioralDesignPatterns/Screenshots/4.png)
